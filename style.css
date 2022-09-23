@@ -4,29 +4,22 @@ html {
     }
 *, ::after, ::before { box-sizing: inherit; }
 
-@font-face {
-    font-family: nunito; /* deklarace fontu */
-    src: url("Nunito/static/Nunito-Regular.ttf"); /* propojení na umístění souboru */
-}
 
-@font-face {
-    font-family: nunitoB; /* deklarace fontu */
-    src: url("Nunito/static/Nunito-Bold.ttf"); /* propojení na umístění souboru */
-}
 
 
 body{
     background-color: #b2bec3;
-    font-family: nunito;
+    font-family: 'Nunito', sans-serif;
     
 }
 
 h1{
     font-size: 36px;
-    font-family: nunitoB;
+    font-family: 'Nunito', sans-serif;
     color: #d63031 ;
     margin-bottom: 30px;
     margin-top: 0;
+    font-weight: bold;
 
 }
 
