@@ -7,24 +7,22 @@ html {
 
 
 
-body{
+body {
     background-color: #b2bec3;
     font-family: 'Nunito', sans-serif;
-    
 }
 
-h1{
+h1 {
     font-size: 36px;
     font-family: 'Nunito', sans-serif;
     color: #d63031 ;
     margin-bottom: 30px;
     margin-top: 0;
     font-weight: bold;
-
 }
 
 
-div{
+.vizitka {
     background-color: white ;
     width: 550px;
     box-sizing: border-box;
@@ -34,27 +32,19 @@ div{
     padding: 30px;
     border-radius: 10px;
     box-shadow: grey 1px 1px 10px;
-    
-
 }
 
-p{
+p {
     font-size: 18px;
     text-align: justify;
-
 }
 
-.text{
-    margin-top: 30px;
 
-}
-
-.textDolu{
+.textDolu {
     margin-bottom: 30px;
-
 }
 
-img{
+img {
     width: 150px;
     height: 150px;
     position: absolute;
@@ -65,7 +55,7 @@ img{
 }
 
 
-a{
+a {
     font-family: 'Nunito', sans-serif;
     font-weight: bold;
     font-size: 18px;
@@ -77,29 +67,24 @@ a{
     color: white;
     text-decoration: none;
     text-transform: uppercase;
-
 }
 
-.tw:hover{
+.tw:hover {
     background-color: #0b7bc1;
-
 }
 
-.fb:hover{
-    background-color:#2b406e ;
-    
+.fb:hover {
+    background-color: #2b406e ;
 }
 
 
-.tw{
+.tw {
     background-color: #1da1f2 ;
     margin-bottom: 5px;
-    
 }
 
-.fb{
+.fb {
   background-color: #3b5998 ;
-  
 }
 
 
